@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380145632021",
+    "project_id": "contac-app-new",
+    "storage_bucket": "contac-app-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380145632021:android:5b3034565181f9ce385f1c",
+        "android_client_info": {
+          "package_name": "com.example.contact_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEzVlByM3JWUqk7bGCyVJXkSdp4Aw9Yr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
